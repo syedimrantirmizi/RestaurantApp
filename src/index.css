@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "uncutsans-Medium";
+    src: url(/fonts/uncutsans/UncutSans-Medium.otf);
+}
+@font-face {
+    font-family: "uncutsans-Bold";
+    src: url(/fonts/uncutsans/UncutSans-Bold.otf);
+}
+@font-face {
+    font-family: "uncutsans-Semibold";
+    src: url(/fonts/uncutsans/UncutSans-Semibold.otf);
+}
+@font-face {
+    font-family: "inter-Regular";
+    src: url(/fonts/inter/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: "inter-Medium";
+    src: url(/fonts/inter/Inter-Medium.ttf);
+}
+@font-face {
+    font-family: "inter-Semibold";
+    src: url(/fonts/inter/Inter-SemiBold.ttf);
+}
+
